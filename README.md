@@ -1,11 +1,8 @@
+# Customer Account Banking Management System
 
- Customer Account Banking Management System
+This project implements a Customer Account Banking Management System in C programming language. It provides various functionalities such as creating new accounts, updating existing account information, performing transactions, checking account details, removing accounts, and viewing a list of customer accounts.
 
-This project implements a Customer Account Banking Management System in C programming language. 
-It provides various functionalities such as creating new accounts, updating existing account information, 
-performing transactions, checking account details, removing accounts, and viewing a list of customer accounts.
-
- Features
+## Features
 
 - Create new customer accounts
 - Update existing account information
@@ -14,22 +11,22 @@ performing transactions, checking account details, removing accounts, and viewin
 - Remove customer accounts
 - View a list of customer accounts
 
+## Getting Started
 
-
-
+### Prerequisites
 
 To run this program, you need:
 
 - A C compiler such as GCC
 - Windows operating system (as the program uses Windows-specific functions)
 
- Installation
+### Installation
 
 1. Clone the repository:
 
-   
+   ```bash
    git clone https://github.com/your-username/customer-account-banking.git
-   
+   ```
 
 2. Navigate to the project directory:
 
@@ -43,7 +40,7 @@ To run this program, you need:
    gcc main.c -o banking_system
    ```
 
- Usage
+### Usage
 
 Run the compiled executable:
 
@@ -61,10 +58,3 @@ Contributions are welcome! Please follow the [Contributing Guidelines](CONTRIBUT
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- This project was developed as a mini-project by the Code With C team.
-
----
-
-Make sure to replace placeholders like `your-username` with your actual GitHub username and update the `Acknowledgments` section if needed. You can also add more sections or information as per your project's requirements.
